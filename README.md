@@ -30,8 +30,9 @@ I'm 19 years old, technical student.  Hard working, self driven and learning new
 
 
 [![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=Node.js)](https://github.com/xEmel/)
+[![Nest.js](https://img.shields.io/badge/Nest.js-20232A?style=for-the-badge&logo=Nestjs&logoColor=e0234e)](https://github.com/xEmel/)
 [![Prisma](https://img.shields.io/badge/Prisma.js-00005F?style=for-the-badge&logo=Prisma)](https://github.com/xEmel/)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/xEmel/)
 
 [![Gitlab CI](https://img.shields.io/badge/GitlabCI-00005F?style=for-the-badge&logo=Gitlab)](https://github.com/xEmel/)
- [![TeamCity](https://img.shields.io/badge/Teamcity-0cb0f2?style=for-the-badge&logo=teamcity)](https://github.com/xEmel/)
+[![TeamCity](https://img.shields.io/badge/Teamcity-0cb0f2?style=for-the-badge&logo=teamcity)](https://github.com/xEmel/)
