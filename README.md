@@ -9,7 +9,7 @@
 I'm 19 years old, technical student.  Hard working, self driven and learning new things frontend passionate. I love to design prototypes, code and build websites. I pay attention to details and creating pleasing to eye interfaces, in accordance with actual trends.
 
 
-[![Coderanks](https://img.shields.io/badge/-Coderanks-67a4ac?style=flat-square&logo=coderanks&logoColor=white&link=https://github.com/xEmel/)](https://profile.codersrank.io/user/xemel) [![Coderanks](https://img.shields.io/badge/-Github-20232A?style=flat-square&logo=github&logoColor=white&link=https://github.com/xEmel/)](https://github.com/xEmel/)
+[![Codersranks](https://img.shields.io/badge/-Codersranks-67a4ac?style=flat-square&logo=coderanks&logoColor=white&link=https://github.com/xEmel/)](https://profile.codersrank.io/user/xemel) [![Coderanks](https://img.shields.io/badge/-Github-20232A?style=flat-square&logo=github&logoColor=white&link=https://github.com/xEmel/)](https://github.com/xEmel/)
 ## 🔧 Skills
 [![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/xEmel/)](https://github.com/xEmel/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://github.com/xEmel/)](https://github.com/xEmel/)
